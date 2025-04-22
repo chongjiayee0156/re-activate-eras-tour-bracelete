@@ -14,6 +14,6 @@ This project shows how to **re-activate your bracelet** using a **DIY infrared e
 
 ## 💻 Source Code
 
-This project is based on the open-source work from the **PixMob reverse engineering** community. The original signals were captured using **Flipper Zero**, and decoded by a team of talented contributors.
+This project is forked from the open-source work from the **PixMob reverse engineering** community. The original signals were captured using **Flipper Zero**, and decoded by a team of talented contributors.
 
 > 🧠 Full credit goes to the developers who reverse-engineered the protocol and made it publicly available.
